@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "464745010476",
+    "project_id": "cyraecommerce",
+    "storage_bucket": "cyraecommerce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464745010476:android:14d17227b2870f90b74889",
+        "android_client_info": {
+          "package_name": "com.example.cyra_ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsmRfBgK9oJqAQyrFFBgeMQQPALcKBXKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
